@@ -1,0 +1,1 @@
+## Azure function to fetch the details from the Github using api call.
